@@ -1,3 +1,6 @@
 test file3
 
+<<<<<<< HEAD
 these changes have been made on local!
+=======
+>>>>>>> c47d5ee15a8bb7936e00a63aada62f390498b931
